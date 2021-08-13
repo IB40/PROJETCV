@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: s;
+}
+        .container{
+            background-color: blue;
+            padding: 100px;
+            margin: 50px;
+        
+
+
+                padding: 15px 40px;
+                background: #46a28d;
+                color: #FFFFFF;
+                font-weight: bold;
+                font-size: 18px;
+                
+            
+                background: #570906;
+                color: #5EB6DD;
+                
+
+        }
+    
+    #ib{
+        background-color: #5EB6DD;
+        border-radius: 25PX;
+        margin-left: 1100px;
+    }
